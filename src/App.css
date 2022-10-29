@@ -1,0 +1,77 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+body{
+  background-image: url(https://static.vecteezy.com/system/resources/thumbnails/010/377/243/small/blue-sky-background-with-evening-fluffy-curly-rolling-clouds-good-windy-weather-photo.jpg);
+  background-size: cover;
+
+}
+
+.App {
+  align-content: center;
+  }
+
+  h2 {
+    text-align: center;
+  color: blue;
+  }
+
+h4 {
+  text-align: center;
+  color: blue;
+}
+
+img {
+  width: 150px;
+  height: 100px;
+}
+
+.card {
+  width: fit-content;
+  height: fit-content;
+  padding: 20px;
+  background-color: rgb(232, 229, 235);
+  border-radius: 10px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  margin: auto;
+  margin-top: 80px;
+}
+.data {
+  display: flex;
+}
+
+.fa-solid {
+  width: 10px;
+  height: 10px;
+  margin-right: 10px;
+  justify-content: center;
+}
+
+ul li {
+  color: blue;
+  list-style: none;
+}
+
+ul li b {
+  color: black;
+  text-align-last: right; 
+  
+}
+ h5 {
+  margin: 0px 0px 10px 60px;
+}
+
+ul p {
+  color: blue;
+  text-align: center;
+}
+
+button {
+  margin-left: 110px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
